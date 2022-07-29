@@ -8,14 +8,16 @@ export const NavBar = () => {
   const [activeLink, setActiveLink] = useState("home");
   const [scrolled, setScrolled] = useState(false);
   const [expanded, setExpanded] = useState(false);
+  const isMobile = window.matchMedia("only screen and (max-width: 600px)").matches;
 
   useEffect(() => {
     const onScroll = () => {
-      if (window.scrollY > 50) {
+      if (window.scrollY > 5) {
         setScrolled(true);
       } else {
         setScrolled(false);
       }
+      setTimeout(() => setExpanded(false), 500);
     };
 
     window.addEventListener("scroll", onScroll);
@@ -29,7 +31,15 @@ export const NavBar = () => {
   };
 
   return (
-    <Navbar expanded={expanded} onToggle={(isExpanded) => setExpanded(isExpanded)} expand="md" className={scrolled ? "scrolled" : ""}>
+    <Navbar
+      expanded={expanded}
+      onToggle={(isExpanded) => {
+        setExpanded(isExpanded);
+        setScrolled(false);
+      }}
+      expand="md"
+      className={scrolled || expanded ? "scrolled" : ""}
+    >
       <Container>
         <Navbar.Brand href="/">
           <img src={logo} alt="Logo" className="logo" />

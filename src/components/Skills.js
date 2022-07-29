@@ -62,7 +62,7 @@ export const Skills = () => {
             <Container className="skillsText">
               <Row>
                 <p>
-                  Currently working towards my Master's in Creative Digital Media & UX.
+                  I'm currently working towards my Master's in Creative Digital Media & UX. Looking for junior design positions.
                   <br />
                   For my final project I'm using React Native, CSS3 and Figma.
                 </p>

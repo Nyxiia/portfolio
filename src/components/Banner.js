@@ -67,7 +67,7 @@ export const Banner = () => {
                 Eager to get involved in creative processes.
               </p>
               <button>
-                <a href="https://drive.google.com/file/d/18M5VpeF0xjXkVt4aegIx-rtJWzekVmo9/view?usp=sharing" style={{ color: "white", textDecoration: "none" }}>
+                <a href="https://drive.google.com/file/d/18M5VpeF0xjXkVt4aegIx-rtJWzekVmo9/view?usp=sharing" target="_blank" style={{ color: "white", textDecoration: "none" }}>
                   Check out my CV <BoxArrowInRight size={30} style={{ marginTop: "-5" }} />
                 </a>
               </button>
