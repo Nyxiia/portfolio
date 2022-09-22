@@ -1,7 +1,7 @@
   <h1 align="center">Hi 👋, I'm Mar</h1>
 <h3 align="center">A passionate UX & UI student (almost graduate) from Spain!</h3>
 
-- 🔭 Almost finished my master's degree in *Creative Digital Media & UX*.
+- 🔭 Almost finished my master's degree in *Creative Digital Media & UX* in TU Dublin.
 
 - 🌱 I’m currently learning **React Native and front end development** and I created this portfolio to practice with this framework.
 
