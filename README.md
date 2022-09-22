@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **marblaygomez@gmail.com** and [marblay.me](marblay.me)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18M5VpeF0xjXkVt4aegIx-rtJWzekVmo9/view?usp=sharing](https://drive.google.com/file/d/18M5VpeF0xjXkVt4aegIx-rtJWzekVmo9/view?usp=sharing)
+- 📄 [Checkout my CV here!](https://drive.google.com/file/d/18M5VpeF0xjXkVt4aegIx-rtJWzekVmo9/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
