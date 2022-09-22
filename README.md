@@ -1,8 +1,8 @@
   <h1 align="center">Hi 👋, I'm Mar</h1>
 <h3 align="center">A passionate UX & UI student (almost graduate) from Spain!</h3>
-<h3 align="center">I'm currently almost finished my master's degree in Creative Digital Media & UX.
+<h4 align="center">I'm currently almost finished my master's degree in Creative Digital Media & UX.
 I created this portfolio website as a way to start learning React in a practical way. 
-In this portfolio you'll be able to find my current </h3>
+In this portfolio you'll be able to find my current </h4>
 
 - 🔭 I’m currently working on **Bordr**
 
