@@ -1,20 +1,16 @@
   <h1 align="center">Hi 👋, I'm Mar</h1>
 <h3 align="center">A passionate UX & UI student (almost graduate) from Spain!</h3>
-<h4 align="center">I'm currently almost finished my master's degree in Creative Digital Media & UX.
-I created this portfolio website as a way to start learning React in a practical way. 
-In this portfolio you'll be able to find my current </h4>
 
-- 🔭 I’m currently working on **Bordr**
+- 🔭 Almost finished my master's degree in *Creative Digital Media & UX*.
 
-- 🌱 I’m currently learning **React Native and front end development**
+- 🌱 I’m currently learning **React Native and front end development** and I created this portfolio to practice with this framework.
 
-- 👨‍💻 All of my projects are available at [marblay.me](marblay.me)
+- 👨‍💻 I used Figma embed, React, CSS, HTML and Javascript .
 
-- 📫 How to reach me **marblaygomez@gmail.com**
+- 📫 How to reach me **marblaygomez@gmail.com** and [marblay.me](marblay.me)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18M5VpeF0xjXkVt4aegIx-rtJWzekVmo9/view?usp=sharing](https://drive.google.com/file/d/18M5VpeF0xjXkVt4aegIx-rtJWzekVmo9/view?usp=sharing)
 
-- ⚡ Fun fact **I've experience in art a design in a traditional setting. I love making costumes!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
