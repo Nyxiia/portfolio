@@ -68,6 +68,12 @@ export const Skills = () => {
                 </p>
               </Row>
             </Container>
+
+            <Container className="skillsText">
+              <Row>
+                <p></p>
+              </Row>
+            </Container>
           </Col>
         </Row>
       </Container>

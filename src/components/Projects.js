@@ -32,6 +32,7 @@ export const Projects = () => {
                   <Tab.Content>
                     <Tab.Pane eventKey="first">
                       <p>Bordr is my thesis project, WIP. It's a meeting app for boardgame and videogame players that wish to find new friends to play new games.</p>
+                      <p>This is an interactive prototype, feel free to play around with it and get a feel for it.</p>
                       <div
                         style={{
                           display: "flex",
@@ -67,7 +68,7 @@ export const Projects = () => {
                     </Tab.Pane>
                     <Tab.Pane eventKey="second">
                       <p>
-                        Foxxy Forest is an Android game made with Unity. This project was made during my second semester of my Master's. <br /> Used C#, Illustrator and Aseprite.
+                        Foxxy Forest is an Android game made with Unity. This project was made during my second semester of my Masters. <br /> Used C#, Illustrator and Aseprite.
                       </p>
                       <div className="youtube-container">
                         <iframe

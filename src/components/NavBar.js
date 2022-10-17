@@ -3,6 +3,7 @@ import { Navbar, Nav, Container } from "react-bootstrap";
 import logo from "../assets/img/logo.svg";
 import navIcon1 from "../assets/img/nav-icon1.svg";
 import navIcon3 from "../assets/img/nav-icon3.svg";
+import githubLogo from "../assets/img/github-logo.svg";
 
 export const NavBar = () => {
   const [activeLink, setActiveLink] = useState("home");
@@ -66,6 +67,9 @@ export const NavBar = () => {
               </a>
               <a href="https://www.instagram.com/marblay_design/" target="_blank">
                 <img src={navIcon3} alt="" />
+              </a>
+              <a href="https://github.com/Nyxiia" target="_blank">
+                <img src={githubLogo} alt="" />
               </a>
             </div>
             <button className="connect-btn" onClick={() => setExpanded(false)}>
