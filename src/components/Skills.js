@@ -62,9 +62,8 @@ export const Skills = () => {
             <Container className="skillsText">
               <Row>
                 <p>
-                  I'm currently working towards my Master's in Creative Digital Media & UX. Looking for junior design positions.
-                  <br />
-                  For my final project I'm using React Native, CSS3 and Figma.
+                  I have experience in React, React Native, HTML, CSS, and Figma, so I am well-equipped to handle design challenges, from research to product development and front-end development.
+                  With my passion for designing products that people love to use and dedication to user experience, I am excited to take on new challenges as a junior product designer.
                 </p>
               </Row>
             </Container>

@@ -61,11 +61,7 @@ export const Banner = () => {
                   <span className="wrap">{text}</span>
                 </span>
               </h1>
-              <p>
-                Designer with a background in design for Stage and Screen Media.
-                <br />
-                Eager to get involved in creative processes.
-              </p>
+              <p>I am a recent graduate in product and UX design with a background in costume design and customer support, with experience in React, React Native, HTML, CSS, and Figma.</p>
               <button>
                 <a href="https://drive.google.com/file/d/1Kxkaz-3tK-rkKtqGbN7OGppwXintEdBc/view?usp=sharing" target="_blank" style={{ color: "white", textDecoration: "none" }}>
                   Check out my CV <BoxArrowInRight size={30} style={{ marginTop: "-5" }} />
