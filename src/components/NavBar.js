@@ -62,21 +62,19 @@ export const NavBar = () => {
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-              <a href="https://www.linkedin.com/in/mar-blay" target="_blank">
+              <a href="https://www.linkedin.com/in/mar-blay" rel="noreferrer" target="_blank">
                 <img src={navIcon1} alt="" />
               </a>
-              <a href="https://www.instagram.com/marblay_design/" target="_blank">
+              <a href="https://www.instagram.com/marblay_design/" rel="noreferrer" target="_blank">
                 <img src={navIcon3} alt="" />
               </a>
-              <a href="https://github.com/Nyxiia" target="_blank">
+              <a href="https://github.com/Nyxiia" rel="noreferrer" target="_blank">
                 <img src={githubLogo} alt="" />
               </a>
             </div>
-            <button className="connect-btn" onClick={() => setExpanded(false)}>
-              <a href="#connect" style={{ color: "white", textDecoration: "none" }}>
-                Let’s Connect
-              </a>
-            </button>
+            <a className="connect-btn" href="#connect" style={{ color: "white", textDecoration: "none" }}>
+              Let’s Connect
+            </a>
           </span>
         </Navbar.Collapse>
       </Container>
