@@ -177,6 +177,11 @@ span.navbar-text {
   border-radius: 12px;
   text-decoration: none;
 }
+@media (max-width: 600px) {
+  .connect-btn {
+    font-size: 12px;
+  }
+}
 
 .connect-btn::after {
   content: "";
@@ -486,6 +491,11 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   transition: 0.3s ease-in-out;
   text-align: center;
   z-index: 0;
+}
+@media (max-width: 600px) {
+  .project .nav.nav-pills .nav-link {
+    font-size: 8px;
+  }
 }
 .project .nav.nav-pills .nav-link::before {
   content: "";

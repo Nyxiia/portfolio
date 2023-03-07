@@ -44,6 +44,7 @@ export const Projects = () => {
                           display: "flex",
                           alignItems: "center",
                           justifyContent: "center",
+                          marginBottom: "10px",
                         }}
                       >
                         <a
@@ -89,6 +90,7 @@ export const Projects = () => {
                             display: "flex",
                             alignItems: "center",
                             justifyContent: "center",
+                            marginBottom: "10px",
                           }}
                         >
                           <a
@@ -103,6 +105,19 @@ export const Projects = () => {
                           <a className="connect-btn" rel="noreferrer" href="https://www.behance.net/gallery/165342737/UXUI-FinTech-Exploration?" target={"_blank"}>
                             Find more Info!
                           </a>
+                        </div>
+                        <div className="youtube-container">
+                          <iframe
+                            title="bordr video"
+                            frameborder="0"
+                            scrolling="no"
+                            marginheight="0"
+                            marginwidth="0"
+                            width="600.19"
+                            height="600"
+                            type="text/html"
+                            src="https://www.youtube.com/embed/iyN4lAwsLSE"
+                          ></iframe>
                         </div>
                       </div>
                     </Tab.Pane>
@@ -131,6 +146,7 @@ export const Projects = () => {
                           display: "flex",
                           alignItems: "center",
                           justifyContent: "center",
+                          marginBottom: "10px",
                         }}
                         className="mb-4"
                       >
