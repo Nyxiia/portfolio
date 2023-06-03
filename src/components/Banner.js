@@ -62,7 +62,7 @@ export const Banner = () => {
                 </span>
               </h1>
               <p>I am a recent graduate in product and UX design with a background in costume design and customer support, with experience in React, React Native, HTML, CSS, and Figma.</p>
-              <a href="https://drive.google.com/file/d/1Kxkaz-3tK-rkKtqGbN7OGppwXintEdBc/view?usp=sharing" rel="noreferrer" target="_blank" style={{ color: "white", textDecoration: "none" }}>
+              <a href="https://drive.google.com/file/d/1V28F5J0cl6sokr_NXZumGNMAHcpUttvo/view?usp=sharing" rel="noreferrer" target="_blank" style={{ color: "white", textDecoration: "none" }}>
                 Check out my CV <BoxArrowInRight size={30} style={{ marginTop: "-5" }} />
               </a>
             </div>
